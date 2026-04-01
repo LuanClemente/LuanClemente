@@ -25,7 +25,7 @@ Tenho mais de 9 anos de experiência na área comercial, o que me trouxe uma for
 
 ### 🚀 Projetos em Destaque
 
-🧙 **[Plataforma de RPG de Mesa]([LINK_DO_SEU_REPOSITORIO_AQUI](https://github.com/LuanClemente/plataforma_rpg_mesa))** *(Full-Stack em Python / Flask)* Aplicação web para gerenciamento de sessões, personagens e regras de RPG, com arquitetura full-stack e deploy em nuvem em andamento.
+🧙 **[Plataforma de RPG de Mesa] https://github.com/LuanClemente/plataforma_rpg_mesa *(Full-Stack em Python / Flask)* Aplicação web para gerenciamento de sessões, personagens e regras de RPG, com arquitetura full-stack e deploy em nuvem em andamento.
 
 📊 **[App de Controle de Vendas]((https://github.com/LuanClemente/app-vendas-fullstack))** *(Java + Spring Boot + JS)* Sistema para gestão de metas, pedidos de vendas e clientes, utilizando API REST, frontend separado e banco de dados PostgreSQL.
 
