@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Luan Clemente (Cap)
+# 👋 Olá! Eu sou o Luan Clemente
 
 Sou desenvolvedor em transição de carreira, com foco em **Full-Stack Python**, experiência prática em **Java, Spring Boot, JavaScript, SQL** e desenvolvimento mobile com **Flutter**.
 
