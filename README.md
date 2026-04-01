@@ -4,7 +4,7 @@ Sou desenvolvedor em transição de carreira, com foco em **Full-Stack Python**,
 
 Tenho mais de 9 anos de experiência na área comercial, o que me trouxe uma forte visão de negócio, resolução de problemas e construção de soluções voltadas para usuários reais — algo que aplico diretamente no desenvolvimento de software.
 
-🌱 **Atualmente upando de level em:** Análise e Desenvolvimento de Sistemas (ADS) e aprofundando conhecimentos em desenvolvimento Full-Stack.
+🌱 **Atualmente me especializando em:** Análise e Desenvolvimento de Sistemas (ADS) e aprofundando conhecimentos em desenvolvimento Full-Stack.
 
 ### 🛠️ Tecnologias & Ferramentas
 
@@ -25,16 +25,16 @@ Tenho mais de 9 anos de experiência na área comercial, o que me trouxe uma for
 
 ### 🚀 Projetos em Destaque
 
-🧙 **[Plataforma de RPG de Mesa](LINK_DO_SEU_REPOSITORIO_AQUI)** *(Full-Stack em Python / Flask)* Aplicação web para gerenciamento de sessões, personagens e regras de RPG, com arquitetura full-stack e deploy em nuvem em andamento.
+🧙 **[Plataforma de RPG de Mesa]((https://github.com/LuanClemente/plataforma_rpg_mesa))** *(Full-Stack em Python / Flask)* Aplicação web para gerenciamento de sessões, personagens e regras de RPG, com arquitetura full-stack e deploy em nuvem em andamento.
 
-📊 **[App de Controle de Vendas](LINK_DO_SEU_REPOSITORIO_AQUI)** *(Java + Spring Boot + JS)* Sistema para gestão de metas, pedidos de vendas e clientes, utilizando API REST, frontend separado e banco de dados PostgreSQL.
+📊 **[App de Controle de Vendas]((https://github.com/LuanClemente/app-vendas-fullstack))** *(Java + Spring Boot + JS)* Sistema para gestão de metas, pedidos de vendas e clientes, utilizando API REST, frontend separado e banco de dados PostgreSQL.
 
-💰 **[App de Controle Financeiro](LINK_DO_SEU_REPOSITORIO_AQUI)** *(Flutter)* Aplicativo mobile para controle financeiro pessoal, com roadmap para persistência em nuvem.
+💰 **[App de Controle Financeiro]((https://github.com/LuanClemente/app_controle_financeiro))** *(Flutter)* Aplicativo mobile para controle financeiro pessoal, com roadmap para persistência em nuvem.
 
 ### 🎯 Objetivo
 
 Atuar como **Desenvolvedor Júnior / Full-Stack**, contribuindo com código, lógica e visão de negócio, enquanto evoluo continuamente em arquitetura, boas práticas e deploy.
 
-### 📫 Como me encontrar no Lobby:
+### 📫 Como me encontrar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-clemente-costa-0914971b9)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI@gmail.com)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:luancc15@hotmail.com)
