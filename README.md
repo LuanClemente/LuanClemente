@@ -100,8 +100,6 @@ class LuanClemente:
 
 </div>
 
-> ⚠️ Para a snake funcionar, você precisa configurar uma **GitHub Action** no seu repositório de perfil. Instruções logo abaixo!
-
 ---
 
 ## 🎯 Objetivo
